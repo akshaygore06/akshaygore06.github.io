@@ -82,7 +82,22 @@ a img {
   padding-top: 60px;
   font-weight: 100;
   font-size: 14px;
+
 }
+
+#heading_name{
+
+  font-family: "Verdana";
+  letter-spacing: 0.1em;
+  color: #fafafa;
+  /*padding-top: 60px;*/
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 4px;
+
+}
+
 
 #about a {
   color: #3a92c8;
