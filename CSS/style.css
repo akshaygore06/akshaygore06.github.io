@@ -9,7 +9,7 @@ body {
   font-size: 14px;
   font-family: 'Karla', sans-serif;
   line-height: 20px;
-  color: #333333;
+  /*color: #333333;*/
   background-color: #ffffff;
   -webkit-font-smoothing: antialiased;
 }
@@ -64,13 +64,13 @@ a img {
 
 #illustration img {
   padding-top: 100px;
-  padding-left: 70px;
-
+  padding-left: 60px;
+  /*padding-top: 90px;*/
 
   /*padding-bottom: 50px;*/
-  width: 40%;
-  min-width:780px;
-  max-height: 700px;
+  width:720px;
+  /*min-width:780px;*/
+  /*max-height: 700px;*/
 }
 
 #illustration p {
@@ -169,9 +169,10 @@ span.answer {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
   letter-spacing: 0.3em;
-  font-weight: 700;
+  font-weight: 800;
   padding-bottom: 50px;
-  font-size: 13px;
+  font-size: 16px;
+
   text-transform: uppercase;
 }
 
@@ -183,7 +184,7 @@ span.answer {
   padding-bottom: 20px;
   margin-bottom: 40px;
   border-bottom: 1px solid #CEC8C8;
-  font-size: 11px;
+  font-size: 14px;
   text-transform: uppercase;
 }
 
