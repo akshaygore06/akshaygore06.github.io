@@ -1,0 +1,42 @@
+
+#myCanvas {
+	height: 460px;
+	width: 860px;
+	background: black;
+	/*position: absolute;*/
+	margin: 20px 20px 20px 20px;
+	display: block;
+	border-radius: 10px;
+}
+
+
+
+body, html{
+	/*margin : auto;*/
+	/*width: 1000px;*/
+	/*padding-top: 1em;*/
+	text-align: center;
+	height: auto;
+	background: rgb(223, 223, 221);
+
+	
+}
+.frame{
+	background-color: rgb(223, 223, 221);
+	height: 500px;
+	width: 900px;
+	margin: auto;
+	/*margin-left: 50px;*/
+	/*margin-right: 50px;*/
+	text-align: center;
+	border: 20px solid #930470;
+	border-radius: 30px;
+}
+
+h1{
+	color: #3f22b5;
+}
+
+h4{
+	color:#5c0493;
+}
