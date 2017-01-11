@@ -301,7 +301,7 @@ img.icon {
 }
 
 #projName{
-  color: black; 
+  color: #7D0B80; 
   font-size: 25px;
   font-stretch: normal;
   font:small-caps;
@@ -313,6 +313,14 @@ img.icon {
   -webkit-filter: grayscale(0%);
   filter: none;
 }*/
+
+.sub{
+  color: white;
+}
+
+.para{
+  color:white;
+}
 
 #work{
   /*background: rgba(154, 145, 125, 0.66);*/
