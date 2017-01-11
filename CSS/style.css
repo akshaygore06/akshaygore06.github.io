@@ -17,7 +17,7 @@ body {
 a{
   text-decoration: none;
   /*font-size: 20px;*/
-  color: #333;
+  color: #503737;
 }
 
 a img {
@@ -223,7 +223,7 @@ span.answer {
   font-weight: 800;
   padding-bottom: 50px;
   font-size: 20px;
-
+  color: #503737;
 
   text-transform: uppercase;
 }
@@ -317,6 +317,7 @@ img.icon {
 #work{
   /*background: rgba(154, 145, 125, 0.66);*/
   background-color: #67A595; 
+  /*background-color: #405952; */
   height: auto;
   margin-top: -30px;
   /*text-align: center;*/
